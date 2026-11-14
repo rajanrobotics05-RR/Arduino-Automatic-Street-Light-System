@@ -140,6 +140,6 @@ Vision to Reality
 Robotics | Electronics | Embedded Systems | IoT | STEM
 
 ---
-![Arduino Automatic Street Light Circuit](Circuit/Arduino_Automatic_Street_Light_Circuit_Connection.png)
+![Arduino Automatic Street Light Circuit](Arduino_Automatic_Street_Light_Circuit_Connection.png)
 
 ⭐ If you find this project useful, star this repository and share it with other electronics enthusiasts!
